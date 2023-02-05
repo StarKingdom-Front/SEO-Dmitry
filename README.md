@@ -1,2 +1,2 @@
 # SEO-Dmitry
-go in branch master
+https://StarKingdom-Front.github.io/SEO-Dmitry
